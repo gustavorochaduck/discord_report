@@ -1,4 +1,4 @@
-#Discord Reporting System (DRS)
+#Personal Discord Reporting System (DRS)
 
 Welcom to a nother of my projects. This project is to send a report "Mensage" for a 1 grup os Discord.
 
