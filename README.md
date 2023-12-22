@@ -5,7 +5,7 @@ This project can use for oder thigns, For example to mensage a grup in Discord
 And this can help for a CTF event
 # Contacts
 If someone Want to say what's must to get a beter version of this code, send a email for me:
-# Way you make this python project?
+# Way I make this python project?
 I 72mrduck have this idea to reporting or to sand a mensage way dont ned a grafic interface to use and i use chatgpt to make de base of the python code.
 # Configuration and setigs
 To configurate this program to discord you need to creat a bot. You can creat in this link:
